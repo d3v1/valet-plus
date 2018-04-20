@@ -92,7 +92,7 @@ For example:
 
 ## Switching PHP version
 
-Switch PHP version using one of three commands:
+Switch PHP version using one of four commands:
 
 ```
 valet use 5.6
